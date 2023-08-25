@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="홈"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/fragmentHome"
+        />
+
+    <item
+        android:title="추가"
+        android:icon="@drawable/baseline_add_circle_outline_24"
+        android:id="@+id/fragmentAdd"/>
+
+    <item
+        android:title="my page"
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/fragmentMyPage"
+        />
+
+</menu>
